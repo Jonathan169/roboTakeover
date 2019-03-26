@@ -2,7 +2,7 @@
   "name": "react-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jonathan169.github.io/yoyo/",
+  "homepage": "https://jonathan169.github.io/roboTakeover/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.5",
