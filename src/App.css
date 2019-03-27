@@ -1,7 +1,7 @@
 /* my styles */
 body{
   height:100%;
-  background-image:url("/images/background.jpg");
+  background-image:url("https://github.com/Jonathan169/roboTakeover/blob/gh-pages/images/background.jpg?raw=true");
   background-repeat: repeat
 }
 .conatiner{
