@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/roboTakeover/static/js/runtime~main.34189a11.js"
   },
   {
-    "revision": "a415d35bbc3efd9ddc0c",
+    "revision": "0c8e9078537315b6d780",
     "url": "/roboTakeover/static/js/main.2580ff21.chunk.js"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/roboTakeover/static/js/2.f885ce20.chunk.js"
   },
   {
-    "revision": "a415d35bbc3efd9ddc0c",
-    "url": "/roboTakeover/static/css/main.a956fcb5.chunk.css"
+    "revision": "0c8e9078537315b6d780",
+    "url": "/roboTakeover/static/css/main.991b7337.chunk.css"
   },
   {
-    "revision": "8970bb261770173df56c9bbddd6426e9",
+    "revision": "12fe56ee731b23e6939d36bc02599791",
     "url": "/roboTakeover/index.html"
   }
 ];
