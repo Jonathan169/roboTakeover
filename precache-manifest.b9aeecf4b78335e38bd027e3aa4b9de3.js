@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/roboTakeover/static/css/main.991b7337.chunk.css"
   },
   {
-    "revision": "866788aabbd7cc8d76797501f1985f86",
+    "revision": "77f0589ff800a1d42398045f34cadf9a",
     "url": "/roboTakeover/index.html"
   }
 ];
