@@ -7,7 +7,7 @@ import './App.css';
 
 class App extends React.Component {
   state={
-    imageArr:["./images/c3po.jpg","./images/chillbot.jpg","./images/hightbot.jpg","./images/r2d2.jpg","./images/robo.jpg","./images/terminator.jpg"],
+    imageArr:["/images/c3po.jpg","/images/chillbot.jpg","/images/hightbot.jpg","/images/r2d2.jpg","/images/robo.jpg","/images/terminator.jpg"],
     clicked:[],
     score:0,
     topscore:0,
