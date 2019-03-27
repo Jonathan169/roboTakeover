@@ -1,5 +1,5 @@
 {
-  "main.css": "/roboTakeover/static/css/main.991b7337.chunk.css",
+  "main.css": "/roboTakeover/static/css/main.ebf6b004.chunk.css",
   "main.js": "/roboTakeover/static/js/main.2580ff21.chunk.js",
   "main.js.map": "/roboTakeover/static/js/main.2580ff21.chunk.js.map",
   "runtime~main.js": "/roboTakeover/static/js/runtime~main.34189a11.js",
@@ -7,7 +7,7 @@
   "static/js/2.f885ce20.chunk.js": "/roboTakeover/static/js/2.f885ce20.chunk.js",
   "static/js/2.f885ce20.chunk.js.map": "/roboTakeover/static/js/2.f885ce20.chunk.js.map",
   "index.html": "/roboTakeover/index.html",
-  "precache-manifest.b9aeecf4b78335e38bd027e3aa4b9de3.js": "/roboTakeover/precache-manifest.b9aeecf4b78335e38bd027e3aa4b9de3.js",
+  "precache-manifest.063347596a89594c9ad8f377072c2add.js": "/roboTakeover/precache-manifest.063347596a89594c9ad8f377072c2add.js",
   "service-worker.js": "/roboTakeover/service-worker.js",
-  "static/css/main.991b7337.chunk.css.map": "/roboTakeover/static/css/main.991b7337.chunk.css.map"
+  "static/css/main.ebf6b004.chunk.css.map": "/roboTakeover/static/css/main.ebf6b004.chunk.css.map"
 }
